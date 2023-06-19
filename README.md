@@ -18,7 +18,8 @@ The project proposes the implementation of an offline portal to cater to rural p
 ## Solution
 - Our Idea is that we will provide the facility of an Offline Portal that can be accessed using a simple feature phone,the user has to simply register and then verify through the portal, and his bank account will be linked for DBT services after successful verification. By this user only have to reach the bank once only for the withdrawal of the money.
 - As of now the user needs to visit the bank to apply, process cheque or DD received by the government as a scholarship and finally to redeem the money. In order to avail of the scholarship user is moving approx. 150+ Km. So by following the approach we are trying to minimize the movement and make the process smooth and reliable as a benefit through Cheque/dd is less reliable and time-consuming.
-## Flowchart
+## Flowchart 
+
 ![Flowchart](https://github.com/PranavSagar/Project-Vaani---SIH/blob/main/Flowchart.png)    
 
 ## Dependencies:
