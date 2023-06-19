@@ -20,7 +20,8 @@ The project proposes the implementation of an offline portal to cater to rural p
 - As of now the user needs to visit the bank to apply, process cheque or DD received by the government as a scholarship and finally to redeem the money. In order to avail of the scholarship user is moving approx. 150+ Km. So by following the approach we are trying to minimize the movement and make the process smooth and reliable as a benefit through Cheque/dd is less reliable and time-consuming.
 ## Flowchart 
 
-![Flowchart](https://github.com/PranavSagar/Project-Vaani---SIH/blob/main/Flowchart.png)    
+![FLowchart - https://github.com/images/logo.png](https://github.com/PranavSagar/Project-Vaani---SIH/blob/9c5f083f73806e6495d1b499a30dcbb3c91349ba/Flowchart.png)
+
 
 ## Dependencies:
 - Aadhar-linked Bank Account: Beneficiaries must have a bank account linked to their Aadhar number to participate in the system.
@@ -33,8 +34,6 @@ The project proposes the implementation of an offline portal to cater to rural p
 - Reduced Human Resource Requirements: The system operates efficiently without the need for extensive human resources.
 - Lower Risk of Fraud: The utilization of RSA encryption enhances data security and reduces the risk of fraudulent activities.
 
-## Presentation
-![Click here for Ppt](https://my.visme.co/view/w430g6nk-voql9km4nkjm2x1w#s11)
 ## References
 - https://dbtbharat.gov.in/page/frontcontentview/?id=MTc=
 - https://www.ucobank.com/pdf/faq-apb.pdf
