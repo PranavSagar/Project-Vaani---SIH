@@ -21,6 +21,7 @@ The project proposes the implementation of an offline portal to cater to rural p
 ## Flowchart 
 
 ![Flowchart](https://github.com/PranavSagar/Project-Vaani---SIH/assets/51918165/55cfb509-a502-4d51-abd5-d245b73a4637)
+![working](https://github.com/PranavSagar/Project-Vaani---SIH/assets/51918165/57fa6c6e-f7e0-47a1-bcc8-e595158b340a)
 
 
 ## Dependencies:
