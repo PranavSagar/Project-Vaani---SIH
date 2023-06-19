@@ -31,6 +31,8 @@ The project proposes the implementation of an offline portal to cater to rural p
 - Reduced Human Resource Requirements: The system operates efficiently without the need for extensive human resources.
 - Lower Risk of Fraud: The utilization of RSA encryption enhances data security and reduces the risk of fraudulent activities.
 
+## Presentation
+![Click here for Ppt](https://my.visme.co/view/w430g6nk-voql9km4nkjm2x1w#s11)
 ## References
 - https://dbtbharat.gov.in/page/frontcontentview/?id=MTc=
 - https://www.ucobank.com/pdf/faq-apb.pdf
