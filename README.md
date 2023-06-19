@@ -15,6 +15,14 @@
 ## Idea:
 The project proposes the implementation of an offline portal to cater to rural populations. To participate in the system, individuals are required to have a bank account linked to their Aadhar number, a unique identification number issued by the UIDAI (Unique Identification Authority of India). The project leverages Interactive Voice Response (IVR) technology and RSA encryption to ensure data security. By utilizing pre-existing technologies rather than inventing new ones, the project aims to provide an economical and practical solution for implementation.
 
+## Solution
+- Our Idea is that we will provide the facility of an Offline Portal that can be accessed using a simple feature phone,the user has to simply register and then verify through the portal, and his bank account will be linked for DBT services after successful verification. By this user only have to reach the bank once only for the withdrawal of the money.
+- As of now the user needs to visit the bank to apply, process cheque or DD received by the government as a scholarship and finally to redeem the money. In order to avail of the scholarship user is moving approx. 150+ Km. So by following the approach we are trying to minimize the movement and make the process smooth and reliable as a benefit through Cheque/dd is less reliable and time-consuming.
+## Flowchart 
+
+![FLowchart - https://github.com/images/logo.png](https://github.com/PranavSagar/Project-Vaani---SIH/blob/9c5f083f73806e6495d1b499a30dcbb3c91349ba/Flowchart.png)
+
+
 ## Dependencies:
 - Aadhar-linked Bank Account: Beneficiaries must have a bank account linked to their Aadhar number to participate in the system.
 - ABP (Aadhar Payment Bridge): The project relies on the ABP, a payment system that utilizes Aadhar numbers and Institution Identification Numbers (IIN) for secure transactions.
@@ -25,3 +33,10 @@ The project proposes the implementation of an offline portal to cater to rural p
 - Cost Efficiency: By utilizing existing technologies and infrastructure, the project minimizes the need for additional investments.
 - Reduced Human Resource Requirements: The system operates efficiently without the need for extensive human resources.
 - Lower Risk of Fraud: The utilization of RSA encryption enhances data security and reduces the risk of fraudulent activities.
+
+## References
+- https://dbtbharat.gov.in/page/frontcontentview/?id=MTc=
+- https://www.ucobank.com/pdf/faq-apb.pdf
+- https://www.indianeconomy.net/splclassroom/what-is-direct-benefit-transfer-dbt-mission/
+- https://www.researchgate.net/publication/339326548_The_Impact_of_Rural_Banking_on_Poverty_and_Employment_in_India
+- https://thewire.in/rights/nrega-workers-last-mile-libtech-india-wages-access-difficulty
