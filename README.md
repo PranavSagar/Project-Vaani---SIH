@@ -20,7 +20,7 @@ The project proposes the implementation of an offline portal to cater to rural p
 - As of now the user needs to visit the bank to apply, process cheque or DD received by the government as a scholarship and finally to redeem the money. In order to avail of the scholarship user is moving approx. 150+ Km. So by following the approach we are trying to minimize the movement and make the process smooth and reliable as a benefit through Cheque/dd is less reliable and time-consuming.
 ## Flowchart 
 
-![FLowchart - https://github.com/images/logo.png](https://github.com/PranavSagar/Project-Vaani---SIH/blob/9c5f083f73806e6495d1b499a30dcbb3c91349ba/Flowchart.png)
+https://github.com/PranavSagar/Project-Vaani---SIH/blob/9c5f083f73806e6495d1b499a30dcbb3c91349ba/Flowchart.png
 
 
 ## Dependencies:
