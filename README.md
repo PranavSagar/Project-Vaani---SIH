@@ -9,7 +9,8 @@
 - The project addresses the issue of limited access to banking services faced by rural residents, hindering their ability to receive scholarship payments. The objective is to design a payment service directive that eliminates the need for strong customer authentication (SCA) and simplifies the process for rural beneficiaries.
 
 ## Issue:
-- According to a survey conducted by Mobile Vaani, one out of five respondents reported difficulties accessing scholarship funds due to the lack of nearby banking services. - - Although the Indian government introduced the Direct Benefit Transfer (DBT) system, rural communities still face challenges due to the time-consuming procedures involved.
+- According to a survey conducted by Mobile Vaani, one out of five respondents reported difficulties accessing scholarship funds due to the lack of nearby banking services. -
+- Although the Indian government introduced the Direct Benefit Transfer (DBT) system, rural communities still face challenges due to the time-consuming procedures involved.
 
 ## Idea:
 The project proposes the implementation of an offline portal to cater to rural populations. To participate in the system, individuals are required to have a bank account linked to their Aadhar number, a unique identification number issued by the UIDAI (Unique Identification Authority of India). The project leverages Interactive Voice Response (IVR) technology and RSA encryption to ensure data security. By utilizing pre-existing technologies rather than inventing new ones, the project aims to provide an economical and practical solution for implementation.
