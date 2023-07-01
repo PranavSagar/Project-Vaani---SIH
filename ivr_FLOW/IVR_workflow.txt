@@ -1,0 +1,9 @@
+IVR --Basically Interactive voice Response - a service that is based on audio outputs and manual input from keypad.
+
+For this project we are using TWILIO ivr service , we wanted to use amazon AWS as it provide vast features and options but some of its services like IVr is not avaliable for Asia and to use that global package was required.
+
+Twilio provides free trail to design and test the whole workflow.
+
+The workflow basically describes how the input will be taken from the user and the whole cycle of completion ,It is a Low code platform providing all the basic functionlity for inputing values from user.
+
+Workflow of the same is attached in ivrworkflow.PNG file showing the initial step and working of the process.
